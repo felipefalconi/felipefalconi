@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=F7F7F7&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Felipe+Falconi;Seja+bem-vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2A2A2A&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Felipe+Falconi;Seja+bem-vindo+ao+meu+perfil!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div>
 <p>🔭Desenvolvedor front-end e UI/UX Designer</p> 
