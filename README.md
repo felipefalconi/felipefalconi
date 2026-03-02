@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 <p>🔭Desenvolvedor front-end e UI/UX Designer</p> 
-<p>📖Atualmente estou cursando Multimídia</p>
+<p>Sou formado no curso técnico de Multimídia e estou cursando Analise e Desenvolvimento de Sistemas na SPTECH</p>
 </div>
 
 <div>
